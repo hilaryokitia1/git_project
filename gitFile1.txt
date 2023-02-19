@@ -1,1 +1,1 @@
-This is learning how git works
+This is learning how git works and the necessary commands
