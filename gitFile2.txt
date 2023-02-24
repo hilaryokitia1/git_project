@@ -1,7 +1,6 @@
-
 These are DevOps tool:
 
 Jenkins
 Maven
 Sonarqube
->>>>>>> bugfix
+
