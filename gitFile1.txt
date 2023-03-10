@@ -6,4 +6,3 @@ Testing push to remote
 
 AAA
 BBB
-CCC
